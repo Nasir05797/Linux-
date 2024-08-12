@@ -1,1 +1,2 @@
 # Swap Partition
+Ip Configuration
