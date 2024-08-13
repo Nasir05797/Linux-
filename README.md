@@ -1,2 +1,3 @@
-# Swap Partition
+Swap Partition
 Ip Configuration
+LVM Partiton
